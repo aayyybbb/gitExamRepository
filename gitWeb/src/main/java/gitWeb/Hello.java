@@ -9,6 +9,8 @@ public class Hello {
 		System.out.println("연규");
 		System.out.println("윤빈");
 		System.out.println("자현");
+		System.out.println("자현 틈을 이용하여 또 작업 ");
+		
 
 
 	}
