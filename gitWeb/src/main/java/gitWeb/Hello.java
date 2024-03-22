@@ -5,5 +5,8 @@ public class Hello {
 		System.out.println("경덕");
 		
 		System.out.println("경덕2");
+
+		System.out.println("연규");
+
 	}
 }
